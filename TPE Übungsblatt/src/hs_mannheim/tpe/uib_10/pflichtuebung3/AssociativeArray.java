@@ -1,6 +1,6 @@
 package hs_mannheim.tpe.uib_10.pflichtuebung3;
 /** 
- * Interface fuer die Methoden des typsicheren Assozitiven Arrays.
+ * Interface fuer die Methoden (hier noch abstrakt) des typsicheren Assozitiven Arrays.
  * 
  * */
 import java.util.function.*;
