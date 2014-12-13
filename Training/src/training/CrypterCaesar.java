@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * Implementierung der Caesar-Verschlüsselungsmethoden die Klasse CrypterCaesar
- * erbt die Interfaces der Klasse Crypter und implementiert diese
+ * erbt die Interfaces der Klasse Crypter und implementiert diese in der CaesarKlasse
  * 
  * @author davidkiefer
  *
