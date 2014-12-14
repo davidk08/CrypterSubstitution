@@ -1,4 +1,4 @@
-package de.hs_mannheim.tpe.uib_10.pflichtuebung4.Verschluesselungen;
+package training;
 
 import java.util.ArrayList;
 import java.util.LinkedList;
@@ -16,7 +16,6 @@ public class CrypterCaesar implements Crypter {
 
 	/**
 	 * Konstruktor, um Key, der dem Crypter übergeben wird, zu initialisieren
-	 * 
 	 * @param key
 	 */
 	public CrypterCaesar(String key) {
